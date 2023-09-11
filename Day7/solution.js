@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=ZNLF2DavA6U&t=362s */
 
 // STEP 1 - parse the lines, making a tree with createTree()
 // STEP 2 - make the tree easier to read with printTree() (if just log out what is returned from above, the console doesn't show the whole thing)
+// STEP 3 - iterate through tree with recursive function to get sizes
 
 const createTree = (lines) => {
     const tree = {
